@@ -8,7 +8,7 @@ public class Test {
 		System.out.println("第一个人的第一行");
 		
 		System.out.println("第一个人的第二行");
-		System.out.println("helloworld");
+		System.out.println("helloworld and china");
 		
 	}
 }
